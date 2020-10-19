@@ -161,6 +161,20 @@ a:hover {
   margin: 0 auto;
 }
 
+.line-auto {
+  width: 70%;
+  height: 3px;
+  background-color: #88e7af;
+  margin: 0 auto;
+}
+
+.title-m {
+  margin-top: 2%;
+  font-weight: 200;
+  color: white;
+  font-size: 1.5rem;
+}
+
 /*--/ Title Left /--*/
 .title-box-2 {
   margin-bottom: 3rem;
